@@ -1,6 +1,6 @@
 # Disease-Predictor
 
-## Dataset for Penumoniua
+## Dataset for Penumonia
 ```bash
 https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 ```
